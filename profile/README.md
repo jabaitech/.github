@@ -1,6 +1,6 @@
 ## JabaiTech / Jabai
 
-Boss?
+Group of friends making projects together | ICT
 
 <!--
 
